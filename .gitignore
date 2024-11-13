@@ -5,6 +5,9 @@ obj/
 # Packages directory
 packages/
 
+# Optional publish output
+publish/
+
 # Visual Studio specific files
 .vs/
 *.csproj.user
