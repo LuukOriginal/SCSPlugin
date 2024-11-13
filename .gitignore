@@ -1,0 +1,28 @@
+# Build and Intermediate directories
+bin/
+obj/
+
+# Packages directory
+packages/
+
+# Visual Studio specific files
+.vs/
+*.csproj.user
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Logs
+*.log
+
+# Backup and temporary files
+*.bak
+~$*
+
+# Specific project-related files
+UpgradeLog.htm
+
+# Others
+*.nupkg
+*.snupkg

@@ -1,0 +1,11 @@
+{
+  "type": "Plugin",
+  "name": "SCS Plugin",
+  "author": "LuukOriginal",
+  "repository": "https://github.com/LuukOriginal/SCSPlugin",
+  "packageId": "LuukOriginal.SCSPlugin",
+  "version": "1.0.0",
+  "target-plugin-api-version": 40,
+  "target-macro-deck-version": "2.13.0",
+  "dll": "SCSPlugin.dll"
+}
